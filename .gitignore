@@ -1,0 +1,11 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Code Editor configurations
+.vscode/
+.idea/
+
+# Extension or live server caches
+.history/
